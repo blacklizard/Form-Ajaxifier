@@ -1,0 +1,21 @@
+{
+  "name": "Form Ajaxifier",
+  "version": "1.0.0",
+  "homepage": "https://github.com/blacklizard/Form-Ajaxifier",
+  "authors": [
+    "Jeevan@blacklizard <jeevanlx@gmail.com>"
+  ],
+  "description": "Form Ajaxifier is simple jQuery plugin to convert normal form into ajax form with minimal amount of code.",
+  "main": "ajaxifier.min.js",
+  "keywords": [
+    "form", "ajax"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
